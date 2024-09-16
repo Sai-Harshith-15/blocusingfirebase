@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211288217419",
+    "project_id": "fir-flutter-3adb9",
+    "storage_bucket": "fir-flutter-3adb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211288217419:android:0994f02903c04ab9887ace",
+        "android_client_info": {
+          "package_name": "com.example.blocusingfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcFGS-KasqFznkWYdqx2kizd-6_LqD8p4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
